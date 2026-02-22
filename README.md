@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nex-ZMH/Agent-websearch-skill/main/logo.jpg" width="660" alt="Agent WebSearch Skill Logo">
+</p>
+
 <h1 align="center">OpenClaw Feishu Voice 🎙️</h1>
 
 <p align="center">
@@ -425,3 +429,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
